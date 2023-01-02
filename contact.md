@@ -3,7 +3,7 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:ja[lastname] [at] utexas [dot] edu)
+* Email: [jamickel@utexas.edu](mailto:ja[lastname] [at] utexas [dot] edu)
 
 ---
 
