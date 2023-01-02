@@ -1,9 +1,10 @@
 title: Jennifer Mickel
-url: "https://ankitsultana.com"
+url: "https://jennm.github.io/personal-website/"
 baseurl: "/researcher"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
+remote_theme: ankitsultana/researcher@gem
 
 tracking_id: #
 
