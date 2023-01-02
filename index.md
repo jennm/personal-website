@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
-Hi! I am a junior studing computer science and math at the University of Texas at Austin in the Polymathic Scholars and Turing Scholars Honors programs.
+Hi! I am a junior studying computer science and math at the University of Texas at Austin in the Polymathic Scholars and Turing Scholars Honors programs.
 
 <!-- This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher) -->
 
